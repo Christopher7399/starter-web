@@ -13,4 +13,4 @@ This will sit in the staging area.
 
 ### Copyright
 
-All rights reserved.
+All rights reserved. Just a quick fix
