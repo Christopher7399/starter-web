@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Christopher Rodriguez -- Consultant -- Who has a twitter?
 
 # THANKS
 
