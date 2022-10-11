@@ -8,3 +8,8 @@ Sample website with plenty of files for demos
 
 ## This will change the world
 This will sit in the staging area.
+
+
+##Copyright
+
+Git training.
